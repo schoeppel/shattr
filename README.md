@@ -35,3 +35,4 @@ shattr -b
 1073741824 bytes in 6979976961 nsecs: 153 MByte/s
 ```
 
+https://en.wikipedia.org/wiki/Intel_SHA_extensions are used if available.
