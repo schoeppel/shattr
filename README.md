@@ -21,7 +21,7 @@ Example:
 
     user.shattr="sSu/jREnolcCSLt8zoyibRT0imkyX1jHfk5cFj/+Qus=17f741633264996a"
 
-# Speed
+# Internal Benchmark
 
 AMD Ryzen 7 PRO 6850U
 ```
